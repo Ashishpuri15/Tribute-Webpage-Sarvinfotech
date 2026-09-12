@@ -18,28 +18,12 @@ A clean, responsive, and elegant tribute webpage dedicated to **Rohit Sharma** (
 - **HTML5**: Clean, semantic markup.
 - **CSS3**: Pure, basic, and responsive stylesheet (No heavy frameworks or libraries).
 
-## 🚀 How to Run
-
-### Method 1: Direct File Opening
-1. Open the project folder.
-2. Double-click `index.html` to view the website in any web browser.
-
-### Method 2: Local HTTP Server
-Run a simple Python server from the project directory:
-```bash
-python -m http.server 8080
-```
-Then open your browser and navigate to:
-`http://localhost:8080`
-
 ## 📁 File Structure
 
 ```text
 Tribute Rohit Sharma/
 ├── index.html        # Main HTML webpage
 ├── style.css         # Basic CSS styling
-├── rohit_portrait_0.jpg # HD photo portrait
-├── stadium_hd.jpg    # Stadium background visual
 └── README.md         # Project documentation
 ```
 
